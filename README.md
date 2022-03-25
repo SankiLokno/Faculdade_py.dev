@@ -1,2 +1,2 @@
 # Faculdade_py.dev
-Estudos
+Study
